@@ -2,7 +2,7 @@
 
 This project is the application of  3 machine learning classifiers (KNN, SVM and Naive bayes) on the famous Iris dataset. 
 
-Using a jupyter notebook the following task has been written in python:
+Using a jupyter notebook the following tasks have been written in python:
 
 1 - Evaluate and write errors of the 3 classifiers of the classifier 
 
